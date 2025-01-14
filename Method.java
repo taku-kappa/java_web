@@ -36,6 +36,17 @@ public class Method {
             System.out.println("敵のHPは残り" + enemy_hp + "です");
         }
 
+
+        // 「間違い探し - RPGの攻撃シーン」
+        String[] enemies = {"スライム", "モンスター", "ドラゴン"};
+        String player1 = "勇者";
+
+        for (String enemy : enemies) {
+            System.out.println(player1 + "は" + enemy + "を攻撃した");
+        }
+
+        System.out.println(player1 + "はすべての敵を倒した");
+
     }
 
 
@@ -65,5 +76,5 @@ public class Method {
         System.out.println(hit + "のダメージを与えた");
         return hit;
     }
-    
+
 }
