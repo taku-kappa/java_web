@@ -1,4 +1,4 @@
-class Car4 {
+public class Car4 {
     private int no;
     private static int count = 0;
 

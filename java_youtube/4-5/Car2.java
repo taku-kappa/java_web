@@ -12,20 +12,3 @@ public class Car2 {
 }
 
 
-// Car c = new Car();
-// Taxi t1 = new Taxi(2525);
-// Taxi t0 = new Taxi();
-// Taxi t2 = new Taxi("2525");
-
-
-
-// Car()
-
-// Car(int no)
-// Taxi(int no)
-
-// Car(int no)
-// Taxi(int no)
-// Taxi()
-
-// Taxi(String no)
